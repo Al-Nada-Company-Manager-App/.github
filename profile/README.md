@@ -1,4 +1,4 @@
-# 📦 Al Nada Manager App
+# <img src="./logo.png" alt="Tayseer Logo" width="60" align="center" /> Al Nada Manager App
 
 A **full-stack sales and inventory management system** built for **Al Nada Scientific Office** to streamline management of products, sales, purchases, suppliers, customers, and debts.  
 Designed for efficiency and scalability, this app empowers the business to track operations in real time.
@@ -40,10 +40,10 @@ The next major update for **Al Nada Manager App** will include:
 
 
 ### Dashboard
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](./dashboard.png)
 
 ### Customers Page
-![Customers Screenshot](screenshots/customer.png)
+![Customers Screenshot](./customer.png)
 
 ---
 
